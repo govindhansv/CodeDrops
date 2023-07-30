@@ -6,5 +6,7 @@
 * [Intro 2](basics/intro-2.md)
 * [Page 3](basics/page-3.md)
 * [Page 4](basics/page-4.md)
+* [Page 5](basics/page-5.md)
+* [New By Govind](basics/new-by-govind.md)
 * [New Page](basics/new-page.md)
 * [Page By Gokul](basics/page-by-gokul.md)
