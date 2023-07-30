@@ -7,3 +7,4 @@
 * [Page 3](basics/page-3.md)
 * [Page 4](basics/page-4.md)
 * [New Page](basics/new-page.md)
+* [Page By Gokul](basics/page-by-gokul.md)
